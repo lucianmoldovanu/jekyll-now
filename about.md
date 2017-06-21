@@ -12,6 +12,6 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email](mailto:lucian.moldovanu@gmail.com)
-[phone]+40 747 266 749
+[Email](mailto:lucian.moldovanu@gmail.com)<br>
+[phone]+40 747 266 749<br>
 [LinkedIn](https://www.linkedin.com/in/lucianmoldovanu)
